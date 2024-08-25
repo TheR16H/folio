@@ -2,12 +2,11 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import images from './components/showcaaseGallery';
+// import images from './components/showcaaseGallery';
 
 
 function App() {
   const [count, setCount] = useState(0)
-
   return (
     <>
       <div>
@@ -33,9 +32,16 @@ function App() {
       <h1> Helloooo </h1>
       <h2> lets put something here i dont know what yet.</h2>
    <div>
-      <h1>Welcome to My App!</h1>
-      <container>
-      <img src="./images/showcase1gif.gif" alt="Description of the image"></img></container>
+   <h1>Welcome to My App!</h1>
+   <showcaaseGallery /> {/* Render the showcaaseGallery component here */}
+      {/* <container>
+      <a href="https://vitejs.dev" target="_blank">
+        </a> */}
+      {/* </container> */}
+      <img src="../images/showcase3gif.gif" className="logo" alt="Description of the image" />
+      <img src="./images/showcase1gif.gif" className="logo" alt="Description of the image" />
+
+
       </div>
 
 
