@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
+import showcaseGallery from './components/showcaseGallery.js';
 import './App.css'
 
 function App() {
@@ -33,6 +34,15 @@ function App() {
     </>
     
   )
+}
+
+const App = () => {
+  return (
+    <div>
+      <h1>Welcome to My App!</h1>
+      <ImageGallery />
+    </div>
+  );
 }
 
 export default App
