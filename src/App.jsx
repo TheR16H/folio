@@ -1,8 +1,9 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
-import showcaseGallery from './components/showcaseGallery.js';
 import './App.css'
+import images from './components/showcaaseGallery';
+
 
 function App() {
   const [count, setCount] = useState(0)
@@ -31,18 +32,22 @@ function App() {
       </p>
       <h1> Helloooo </h1>
       <h2> lets put something here i dont know what yet.</h2>
-    </>
-    
-  )
+   <div>
+      <h1>Welcome to My App!</h1>
+      <container>
+      <img src="./images/showcase1gif.gif" alt="Description of the image"></img></container>
+      </div>
+
+
+
+
+
+
+
+ </> ) 
+     
 }
 
-const App = () => {
-  return (
-    <div>
-      <h1>Welcome to My App!</h1>
-      <ImageGallery />
-    </div>
-  );
-}
+
 
 export default App
