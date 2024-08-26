@@ -1,6 +1,6 @@
 import styles from "./App.module.css";
-// import { About } from "./components/About/About";
-import { Projects } from "./components/Projects/Projects";
+// import { About } from "./components/About/About"; // i mixed this up with contact oops
+import { Projects } from "./components/projects/projects";
 import { Contact } from "./components/contact/contact";
 
 // import images from './components/showcaaseGallery';
@@ -10,7 +10,7 @@ function App() {
   return (
     <div className={styles.App}>
     <>Rashawn </>
-    {/* <About /> */}
+    {/* <About /> this will be made or folded into contact idk */}
     <Projects />
     <Contact />
     </div>
