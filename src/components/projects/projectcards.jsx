@@ -1,10 +1,13 @@
+/* eslint-disable no-unused-vars */
 import React from "react";
+
 import styles from "./ProjectCard.module.css";
 import { getImageUrl } from "../../utils";
+import PropTypes from "prop-types";
 
 export const ProjectCard = ({
-    project: { title, imageSrc, description, skills, demo, source },
-}) => { 
+  project: { title, imageSrc, description, skills, demo, source },
+}) => {
     return (
         <div className={styles.container}>
             <img src={getImageUrl(imageSrc)} 
@@ -28,3 +31,16 @@ export const ProjectCard = ({
         </div>
     );
  };
+ ProjectCard.propTypes = {
+    project: PropTypes.shape({
+        title: PropTypes.string.isRequired,
+        imageSrc: PropTypes.string.isRequired,
+        description: PropTypes.string.isRequired,
+        skills: PropTypes.arrayOf(PropTypes.string).isRequired,
+        demo: PropTypes.string.isRequired,
+        source: PropTypes.string.isRequired,
+    }).isRequired,
+};
+
+export default ProjectCard;
+

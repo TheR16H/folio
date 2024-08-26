@@ -6,10 +6,10 @@ export default defineConfig({
   css: {
     modules: {
       localsConvention:"camelCase",
-    }
+    },
   },
   server: {
     port: 3000,
     open: true
-  }
-})
+  },
+});

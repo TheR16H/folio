@@ -66,3 +66,15 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 } */
+
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  /* font-family: "Outfit", Arial, Helvetica, sans-serif; */
+}
+
+html {
+  scroll-behavior: smooth;
+}

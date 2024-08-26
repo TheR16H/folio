@@ -1,8 +1,8 @@
 
 .container {
-  color: var(--color-text);
+  color: #fff;
   margin-top: 120px;
-  background-color: var(--color-secondary);
+  background-color: #19376d;
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
@@ -38,7 +38,7 @@
 }
 
 .link a {
-  color: var(--color-text);
+  color: #fff;
   text-decoration: none;
   font-size: 30px;
   font-weight: 400;
@@ -60,13 +60,4 @@
   .links {
     align-items: center;
   }
-}
-
-:root {
-    /* Colours */
-    --color-text: #fff;
-    --color-primary: #576cbc;
-    --color-secondary: #19376d;
-    --color-dark: #0b2447;
-    --color-bg: #04152d;
 }
