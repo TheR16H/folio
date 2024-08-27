@@ -4,7 +4,7 @@
         "imageSrc": "projects/showcase1.png",
         "description": "you can type out the things you need to do in the coming days and organize them based off their status. if the deadline is today (or has passed) the task will appear Red. If it's within 2 days the task will appear Yellow. If it's 3 or more days away the task will appear Green.",
         "skills": ["HTML, Javascript, CSS"],
-        "demo": "https://raw.githubusercontent.com/TheR16H/Brain-Dump/main/assets/images/Visual4(Demo).gif",
+        "demo": "https://ther16h.github.io/Brain-Dump/",
         "source": "add the repo here or add a href to the repo and add the deployed link here"
 
     },
@@ -13,7 +13,7 @@
         "imageSrc": "projects/showcase2.png",
         "description": "This is a Weather site that will bring up an accurate 5 day forecast using data captured with an API, while keeping your previous searches stored to the side under the search bar for easy researchability.",
         "skills": ["HTML, Javascript, CSS"],
-        "demo": "go back and just make videos if i cant get the gif to get a link",
+        "demo": "https://ther16h.github.io/OfficialOfficialWeather/",
         "source": "add the repo here or add a href to the repo and add the deployed link here"
 
     },
