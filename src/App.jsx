@@ -2,8 +2,8 @@ import styles from "./App.module.css";
 // import { About } from "./components/About/About"; // i mixed this up with contact oops
 import { Projects } from "./components/projects/projects";
 import { Contact } from "./components/contact/contact";
+import { Experience } from "./components/experience/experience";
 
-// import images from './components/showcaaseGallery';
 
 
 function App() {
@@ -11,7 +11,8 @@ function App() {
     <div className={styles.App}>
     <>Rashawn </>
     {/* <About /> this will be made or folded into contact idk */}
-    <Projects />
+   <Experience />
+     <Projects />
     <Contact />
     </div>
  ); 
