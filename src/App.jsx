@@ -11,7 +11,7 @@ function App() {
     <div className={styles.App}>
     <>Rashawn </>
     {/* <About /> this will be made or folded into contact idk */}
-   <Experience />
+   {/* why is this line breaking it?? -->    <Experience /> */}
      <Projects />
     <Contact />
     </div>

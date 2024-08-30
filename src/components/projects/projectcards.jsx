@@ -1,6 +1,6 @@
 import React from "react";
 
-import styles from "./ProjectCard.module.css";
+import styles from "./projectcard.module.css";
 import { getImageUrl } from "../../utils";
 import PropTypes from "prop-types";
 

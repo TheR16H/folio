@@ -6,13 +6,14 @@
   "scripts": {
     "dev": "vite",
     "start": "npm i && vite",
-    "build": "vite build",
+    "build": "vite build && npm run start",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
   "dependencies": {
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.8.0",
