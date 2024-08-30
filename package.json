@@ -6,9 +6,10 @@
   "scripts": {
     "dev": "vite",
     "start": "npm i && vite",
-    "build": "vite build && npm run start",
+    "build": "vite build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "net": "vite build && vite preview"
   },
   "dependencies": {
     "react": "^18.3.1",
