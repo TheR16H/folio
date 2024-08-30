@@ -2,7 +2,7 @@ import styles from "./App.module.css";
 // import { About } from "./components/About/About"; // i mixed this up with contact oops
 import { Projects } from "./components/projects/projects";
 import { Contact } from "./components/contact/contact";
-import { Experience } from "./components/experience/experience";
+// import { Experience } from "./components/experience/experience";
 
 
 
