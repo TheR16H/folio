@@ -6,44 +6,44 @@
 
     },
     {
-        "title": "Green Acres (Project 2)",
+        "title": "HTML",
         "imageSrc": "skills/html.png"
        
 
     }, 
     {
-        "title": "Green Acres (Project 2)",
-        "imageSrc": "skills/html.png"
+        "title": "Jquery",
+        "imageSrc": "skills/jquery.png"
        
 
     },
      {
-        "title": "Green Acres (Project 2)",
-        "imageSrc": "skills/html.png"
+        "title": "Mongodb",
+        "imageSrc": "skills/mongodb.png"
        
 
     }, 
     {
-        "title": "Green Acres (Project 2)",
-        "imageSrc": "skills/html.png"
+        "title": "Node.js",
+        "imageSrc": "skills/node.png"
        
 
     }, 
     {
-        "title": "Green Acres (Project 2)",
-        "imageSrc": "skills/html.png"
+        "title": "Postgress SQL",
+        "imageSrc": "skills/Postgresql.png"
        
 
     }, 
     {
-        "title": "Green Acres (Project 2)",
-        "imageSrc": "skills/html.png"
+        "title": "React",
+        "imageSrc": "skills/react.png"
        
 
     }, 
     {
-        "title": "Green Acres (Project 2)",
-        "imageSrc": "skills/html.png"
+        "title": "SQL",
+        "imageSrc": "skills/sql.png"
        
 
     }
