@@ -16,22 +16,10 @@
         "imageSrc": "skills/jquery.png"
        
 
-    },
-     {
-        "title": "Mongodb",
-        "imageSrc": "skills/mongodb.png"
-       
-
     }, 
     {
         "title": "Node.js",
         "imageSrc": "skills/node.png"
-       
-
-    }, 
-    {
-        "title": "Postgress SQL",
-        "imageSrc": "skills/Postgresql.png"
        
 
     }, 
@@ -46,5 +34,13 @@
         "imageSrc": "skills/sql.png"
        
 
+    },
+    {
+    "title": "Postgress",
+    "imageSrc": "skills/Postgresql.png"
+    },
+    {
+        "title": "Mongodb",
+        "imageSrc": "skills/mongodb.png"
     }
 ]
