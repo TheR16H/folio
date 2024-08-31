@@ -33,4 +33,31 @@
   "keywords": [],
   "author": "",
   "license": "ISC"
-}
+} this is my package.json above. this is my netf deployment below 
+: $ npm run net
+4:17:04 PM: > folio@0.0.0 net
+4:17:04 PM: > vite build && vite preview
+4:17:04 PM: vite v5.4.2 building for production...
+4:17:04 PM: transforming...
+4:17:05 PM: ✓ 62 modules transformed.
+4:17:05 PM: rendering chunks...
+4:17:05 PM: computing gzip size...
+4:17:05 PM: dist/index.html                          0.46 kB │ gzip:  0.29 kB
+4:17:05 PM: dist/assets/node-BuugxZfd.png            4.51 kB
+4:17:05 PM: dist/assets/react-DnG5Nebg.png           6.46 kB
+4:17:05 PM: dist/assets/sql-CwPRdmzg.png            13.28 kB
+4:17:05 PM: dist/assets/showcase4-BOhXPY-Y.png      21.94 kB
+4:17:05 PM: dist/assets/showcase3-Ck9jJjTf.png      52.74 kB
+4:17:05 PM: dist/assets/showcase1-DF6nMVYb.png      57.58 kB
+4:17:05 PM: dist/assets/Postgresql-DUtBjlXm.png     58.90 kB
+4:17:05 PM: dist/assets/showcase2-CuWhYc-B.png     214.20 kB
+4:17:05 PM: dist/assets/showcase5-BkfNGfdy.png   2,053.18 kB
+4:17:05 PM: dist/assets/index-Bpy-eEE1.css           2.02 kB │ gzip:  0.75 kB
+4:17:05 PM: dist/assets/index-B0xI3ieF.js          166.89 kB │ gzip: 61.29 kB
+4:17:05 PM: ✓ built in 687ms
+4:17:05 PM:   ➜  Local:   http://localhost:4173/
+4:17:05 PM:   ➜  Network: use --host to expose
+4:35:01 PM: Failed during stage 'building site': Command did not finish within the time limit
+4:35:01 PM: Execution timed out after 17m59.764519605s
+4:35:01 PM: Failing build: Failed to build site
+4:35:02 PM: Finished processing build request in 18m18.714s how to fix this?
