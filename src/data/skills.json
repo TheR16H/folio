@@ -1,5 +1,11 @@
 [
     {
+        "title": "Git",
+        "imageSrc": "skills/git.png"
+       
+
+    }, 
+     {
         "title": "CSS",
         "imageSrc": "skills/css.png"
        
@@ -8,6 +14,18 @@
     {
         "title": "HTML",
         "imageSrc": "skills/html.png"
+       
+
+    }, 
+   {
+        "title": "SQL",
+        "imageSrc": "skills/sql.png"
+       
+
+    },
+    {
+        "title": "React",
+        "imageSrc": "skills/react.png"
        
 
     }, 
@@ -24,23 +42,17 @@
 
     }, 
     {
-        "title": "React",
-        "imageSrc": "skills/react.png"
-       
-
-    }, 
-    {
-        "title": "SQL",
-        "imageSrc": "skills/sql.png"
-       
-
-    },
-    {
     "title": "Postgress",
     "imageSrc": "skills/Postgresql.png"
     },
     {
         "title": "Mongodb",
         "imageSrc": "skills/mongodb.png"
+    },
+    {
+        "title": "Javascript",
+        "imageSrc": "skills/javascript.png"
+       
+
     }
 ]
