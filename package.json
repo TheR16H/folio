@@ -9,7 +9,7 @@
     "start:frontend": "vite",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "start": "npm run build:frontend && npm run start:frontend && npm install",
+    "start": "npm run build:frontend && npm run start:frontend",
     "build": "npm run build:frontend"
   },
   "dependencies": {
