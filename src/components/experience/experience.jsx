@@ -1,6 +1,6 @@
 import React from "react";
 
-import styles from "./Experience.module.css";
+import styles from "../../components/experience/Experience.module.css";
 import skills from "../../data/skills.json";
 import { getImageUrl } from "../../utils";
 
