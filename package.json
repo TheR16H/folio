@@ -1,10 +1,3 @@
-assistant icon
-The issue of repeating "npm install" commands in your build process could be due to the way the scripts are defined in your package.json file. In your current setup, the "install" script is set to run "npm install", and it seems to be called within other scripts like "start" and "build".
-
-To resolve this issue, you should avoid calling "npm install" within other scripts because the "install" script is meant to handle the installation of dependencies globally for your project. When you call "npm install" within another script, it creates a loop where the script calls itself, resulting in the repetition you are experiencing.
-
-Here is an updated version of your package.json file with the unnecessary "npm install" commands removed from the other scripts:
-
 {
   "name": "folio",
   "private": true,
