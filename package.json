@@ -27,7 +27,7 @@
     "globals": "^15.9.0",
     "vite": "^5.4.2"
   },
-  "description": "",
+  "description": "- [Visuals](#visuals)\r - [Usage](#usage)\r - [Installation](#installation)\r - [Support](#support)\r - [Contributions](#contributions)\r - [References](#references)\r - [License](#license)",
   "main": "eslint.config.js",
   "keywords": [],
   "author": "",

@@ -27,7 +27,7 @@
 
     },
     {
-        "title": "E-Commerece apllication",
+        "title": "E-commerce Back End",
         "imageSrc": "projects/showcase4.png",
         "description": "this is an application that is meant for keeping track of your business' products. with this application you can seperate your items by tags / categories. add a price to your items and even delist (delete) them .",
         "skills": ["Javascript, Node.js, SQL"],
