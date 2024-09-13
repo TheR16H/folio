@@ -17,13 +17,13 @@
 ![gif](./public/assets/images/visual2.gif) -->
 
 ## Usage
-
+The proper usage is to showcase things i've worked on and give future employers a way to contact me !
 
 ## Installation
-<!-- to install any of the required npm packages (if working in VSC) just run the following command in your terminal it
+to install any of the required npm packages (if working in VSC) just run the following command in your terminal it
 ```
 npm run build
-``` -->
+```
 
 ## Support
 Find me on [Github!](https://github.com/TheR16H) for any support or to see any of my other works.
