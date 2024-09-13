@@ -11,8 +11,11 @@
   /* stars */
   position: relative;
   overflow: hidden;
-  
-}
+    width: 100%; /* Full width */
+  height: 100%; /* Full height */
+    /* Add any additional styles you want for your content */
+  }
+
 
 .content {
   display: flex;

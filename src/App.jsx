@@ -1,27 +1,27 @@
 import styles from "./App.module.css";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { Headernav } from "./components/Headernav/headernav";
-import { Land } from "./components/landingpage/land"
+import { Land } from "./components/landingpage/land";
 import { About } from "./components/About/about";
 import { Projects } from "./components/projects/projects";
 import { Contact } from "./components/contact/contact";
 import { Experience } from "./components/experience/experience";
 
-
-
 function App() {
   return (
-    <div className={styles.App}>
-      <Headernav />
-    <>Rashawn </>
-    <Land />
-    <About />
-     <Experience />
-     <Projects />
-    <Contact />
-    </div>
- ); 
+    <Router>
+      <div className={styles.App}>
+        <Headernav />
+        <Routes>
+          <Route path="/" element={<Land />} /> {/* Home page */}
+          <Route path="/about" element={<About />} />
+          <Route path="/experience" element={<Experience />} />
+          <Route path="/projects" element={<Projects />} />
+          <Route path="/contact" element={<Contact />} />
+        </Routes>
+      </div>
+    </Router>
+  );
 }
-
-
 
 export default App;

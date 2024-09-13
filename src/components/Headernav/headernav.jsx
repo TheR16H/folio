@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-
+import { Link } from "react-router-dom"; // Import Link
 import styles from "./headernav.module.css";
 
 export const Headernav = () => {
@@ -7,9 +7,9 @@ export const Headernav = () => {
 
   return (
     <nav className={styles.navbar}>
-      <a className={styles.title} href="/">
+      <Link className={styles.title} to="/">
         Portfolio
-        </a>
+      </Link>
       <div className={styles.menu}>
         <button
           className={styles.menuBtn}
@@ -22,16 +22,16 @@ export const Headernav = () => {
           onClick={() => setMenuOpen(false)}
         >
           <li>
-            <a href="#about">About</a>
+            <Link to="/about">About</Link> {/* Use Link instead of a */}
           </li>
           <li>
-            <a href="#experience">Skills</a>
+            <Link to="/experience">Experience</Link> {/* Use Link instead of a */}
           </li>
           <li>
-            <a href="#projects">Projects</a>
+            <Link to="/projects">Projects</Link> {/* Use Link instead of a */}
           </li>
           <li>
-            <a href="#contact">Contact</a>
+            <Link to="/contact">Contact</Link> {/* Use Link instead of a */}
           </li>
         </ul>
       </div>
