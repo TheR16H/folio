@@ -12,7 +12,7 @@
 }
 
 .text h2 {
-  font-size: 80px;
+  font-size: 50px;
   font-weight: 700;
   letter-spacing: 4px;
 }
@@ -47,7 +47,7 @@
 }
 
 .link a:hover {
-  text-shadow: 0 0 5px #006aff, 0 0 10px rgba(255, 255, 255, 0.6), 0 0 15px rgba(255, 255, 255, 0.4); /* Adjust the colors and blur as needed */
+  text-shadow: 0 0 5px #ff0000, 0 0 10px rgba(255, 0, 0, 0.6), 0 0 15px rgba(255, 255, 255, 0.4); /* Adjust the colors and blur as needed */
 }
 
 @media screen and (max-width: 830px) {
