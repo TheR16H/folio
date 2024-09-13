@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 
 import styles from "./headernav.module.css";
-import { getImageUrl } from "../../utils";
 
 export const Headernav = () => {
   const [menuOpen, setMenuOpen] = useState(false);

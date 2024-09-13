@@ -18,9 +18,9 @@
 
 .menuBtn {
   display: none;
-background-color: transparent; /* Remove the white background */
+background-color: transparent; 
 border: none; /* Remove any border */
-cursor: pointer; /* Change cursor to pointer */
+cursor: pointer;
 transition: box-shadow 0.9s ease;
 color: blue;
 }

@@ -2,7 +2,7 @@
 .container {
   color: #fff;
   margin-top: 120px;
-  background-color: #19376d;
+  background-color: #04152d;
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
@@ -43,6 +43,11 @@
   font-size: 30px;
   font-weight: 400;
   letter-spacing: 1.5px;
+  transition: text-shadow 0.3s ease; 
+}
+
+.link a:hover {
+  text-shadow: 0 0 5px #006aff, 0 0 10px rgba(255, 255, 255, 0.6), 0 0 15px rgba(255, 255, 255, 0.4); /* Adjust the colors and blur as needed */
 }
 
 @media screen and (max-width: 830px) {
