@@ -1,5 +1,5 @@
 import styles from "./App.module.css";
-// import { About } from "./components/About/About"; // i mixed this up with contact oops
+import { Headernav } from "./components/Headernav/headernav";
 import { Projects } from "./components/projects/projects";
 import { Contact } from "./components/contact/contact";
 import { Experience } from "./components/experience/experience";
@@ -9,8 +9,8 @@ import { Experience } from "./components/experience/experience";
 function App() {
   return (
     <div className={styles.App}>
+      <Headernav />
     <>Rashawn </>
-    {/* <About /> this will be made or folded into contact idk */}
      <Experience />
      <Projects />
     <Contact />

@@ -36,6 +36,15 @@
 
     },
     {
+        "title": "Stenographer",
+        "imageSrc": "projects/showcase6.png",
+        "description": "The purpose of Stenographer is to give you the ability to POST and GET things you wish to remember and then you have the ability to delete them when you're done!",
+        "skills": ["Javascript, CSS, Node.js"],
+        "demo": "https://stenographer-lcxt.onrender.com",
+        "source": "https://github.com/TheR16H/Stenographer"
+
+    },
+    {
         "title": "Green Acres (Project 2)",
         "imageSrc": "projects/showcase5.png",
         "description": "The Intended use of this application is for a busniess to track jobs / add clients on the go in a conveient way to advance your business ventures.",
