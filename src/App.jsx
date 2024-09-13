@@ -1,6 +1,7 @@
 import styles from "./App.module.css";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import { Headernav } from "./components/Headernav/headernav";
+import Footer from './components/footer/footer';
 import { Land } from "./components/landingpage/land";
 import { About } from "./components/About/about";
 import { Projects } from "./components/projects/projects";
@@ -19,6 +20,7 @@ function App() {
           <Route path="/projects" element={<Projects />} />
           <Route path="/contact" element={<Contact />} />
         </Routes>
+        <Footer /> 
       </div>
     </Router>
   );

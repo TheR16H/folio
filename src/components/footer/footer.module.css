@@ -1,0 +1,19 @@
+footer {
+    background-color: ; /* Example background color */
+    text-align: center;
+    padding: 20px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer-images {
+    display: flex;
+    justify-content: center; 
+    gap: 10px; 
+}
+
+.footer-images img {
+    width: 50px; 
+    height: auto; 
+}
