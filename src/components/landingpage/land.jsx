@@ -7,7 +7,7 @@ export const Land = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi!</h1>
         <p className={styles.description}>
-         Welcome to my portfolio</p>
+         My name's Rashawn. Welcome to my portfolio</p>
       </div>
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />
