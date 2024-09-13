@@ -17,9 +17,9 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/1-50x50.png")} alt="CPU" className={styles.aboutImage} />
             <div className={styles.aboutItemText}>
-              <h3>somethin</h3>
+              <h3>Introduction</h3>
               <p>
-             words, words, words 
+             My name is Rashawn Hall born and raised in PA. i have a background in coding and graphic design.
               </p>
             </div>
           </li>
@@ -37,10 +37,10 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/2-50x50.png")} alt="Side"className={styles.aboutImage} />
             <div className={styles.aboutItemText}>
-              <h3>PASS PROJEC</h3>
+              <h3>History</h3>
               <p>
-              in my freetime i tend to dive into various topics of research always advancing my extensive knowlege on the subject 
-              of fullstack and have a few passion projects planned to be released soon!
+              Since starting on my full stack journey i picked up a variety of skills, in my freetime i tend to dive into various topics of research always advancing my extensive knowlege on all things 
+              full stack and have a few passion projects planned to be released soon!
               </p>
             </div>
           </li>
