@@ -1,7 +1,7 @@
 [
     {
         "title": "Brain Dump (Kanban Board)",
-        "imageSrc": "projects/showcase1.png",
+        "imageSrc": "projects/showcase1gif.gif",
         "description": "you can type out the things you need to do in the coming days and organize them based off their status. if the deadline is today (or has passed) the task will appear Red. If it's within 2 days the task will appear Yellow. If it's 3 or more days away the task will appear Green.",
         "skills": ["HTML, Javascript, CSS"],
         "demo": "https://ther16h.github.io/Brain-Dump/",
@@ -10,7 +10,7 @@
     },
     {
         "title": "Weather App",
-        "imageSrc": "projects/showcase2.png",
+        "imageSrc": "projects/showcase2gif.gif",
         "description": "This is a Weather site that will bring up an accurate 5 day forecast using data captured with an API, while keeping your previous searches stored to the side under the search bar for easy researchability.",
         "skills": ["HTML, Javascript, CSS"],
         "demo": "https://ther16h.github.io/OfficialOfficialWeather/",
@@ -18,12 +18,12 @@
 
     },
     {
-        "title": "Text Editor",
-        "imageSrc": "projects/showcase3.png",
-        "description": " this is an application where the user can create notes or code snippets with or without an internet connection, you can even download it as a desktop application!",
-        "skills": ["HTML, Javascript, CSS "],
-        "demo": "https://text-editor-upo3.onrender.com/",
-        "source": "https://github.com/TheR16H/Text-editor"
+        "title": "Employee Directory",
+        "imageSrc": "projects/showcase3gif.gif",
+        "description": "This is an Employee Directory. with this application you will be able to see your employees / create new ones, see who is in what department and, what role they play in the grand scheme.",
+        "skills": ["Javascript, Postgress, SQL "],
+        "demo": "https://drive.google.com/file/d/1pIN3k0Ue1KC7v9uhDAwys8RevJk9kVyF/view",
+        "source": "https://github.com/TheR16H/Employee-Directory"
 
     },
     {
@@ -37,7 +37,7 @@
     },
     {
         "title": "Stenographer",
-        "imageSrc": "projects/showcase6.png",
+        "imageSrc": "projects/showcase6gif.gif",
         "description": "The purpose of Stenographer is to give you the ability to POST and GET things you wish to remember and then you have the ability to delete them when you're done!",
         "skills": ["Javascript, CSS, Node.js"],
         "demo": "https://stenographer-lcxt.onrender.com",
