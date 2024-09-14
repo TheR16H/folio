@@ -7,12 +7,14 @@ import { About } from "./components/About/about";
 import { Projects } from "./components/projects/projects";
 import { Contact } from "./components/contact/contact";
 import { Experience } from "./components/experience/experience";
+import CustomCursor from './components/Cursor/cursor';
 
 function App() {
   return (
     <Router>
       <div className={styles.App}>
         <Headernav />
+        <CustomCursor />
         <Routes>
           <Route path="/" element={<Land />} /> {/* Home page */}
           <Route path="/about" element={<About />} />
