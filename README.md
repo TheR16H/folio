@@ -1,6 +1,7 @@
-# folio
+# Portfolio
 
 ## Description 
+This [Portfolio](https://main--boysfirstfolio.netlify.app/) is a place that holds links to my github repo, ways to contact me, and visuals of alot of my past works for potential employers to take a look at.
 
 ## Table of Contents
 
@@ -13,8 +14,8 @@
 - [License](#license)
 
 ## Visuals
- <!-- ![Screenshot](./public/assets/images/Visual-1-SS.png)
-![gif](./public/assets/images/visual2.gif) -->
+ ![Screenshot](./assets/misc-images/Visual1.png)
+![Screenshot](./assets/misc-images/Visual2.png)
 
 ## Usage
 The proper usage is to showcase things i've worked on and give future employers a way to contact me !
@@ -38,7 +39,7 @@ no contributions will be needed for this project.
 
 
 ## License
-<!-- MIT License 🔔
+MIT License 🔔
 
 Copyright (c) 2024 Rashawn Hall
 
@@ -58,4 +59,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE. -->
+SOFTWARE.
