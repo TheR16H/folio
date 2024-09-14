@@ -32,9 +32,10 @@ Find me on [Github!](https://github.com/TheR16H) for any support or to see any o
 no contributions will be needed for this project.
 
 ## References
-<!-- - [R1](https://google.com)
-- [R2](https://google.com)
-- [R3](https://google.com) -->
+- [Source](https://github.com/TheR16H) 
+- [React Docs](https://react.dev/)
+- [Keyframes](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Keyframe_Formats)
+
 
 ## License
 <!-- MIT License 🔔
