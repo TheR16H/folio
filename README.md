@@ -21,9 +21,14 @@ This [Portfolio](https://main--boysfirstfolio.netlify.app/) is a place that hold
 The proper usage is to showcase things i've worked on and give future employers a way to contact me !
 
 ## Installation
-to install any of the required npm packages (if working in VSC) just run the following command in your terminal it
+If you want to view this project locally just run the following commands in your terminal
+- First: to download the required packages execute the following
 ```
 npm run build
+```
+- Secondly: to actually start the server just execute the following command 
+```
+npm run start
 ```
 
 ## Support
