@@ -5,6 +5,8 @@ footer {
     position: relative;
     bottom: 0;
     width: 100%;
+    padding: 10px;
+
 }
 
 .footer-images {
@@ -16,4 +18,17 @@ footer {
 .footer-images img {
     width: 50px; 
     height: auto; 
+}
+
+
+/* trying a sticky footer technique*/
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+.content {
+    flex: 1; 
+    padding: 20px;
 }
