@@ -5,7 +5,7 @@
         "description": "you can type out the things you need to do in the coming days and organize them based off their status. if the deadline is today (or has passed) the task will appear Red. If it's within 2 days the task will appear Yellow. If it's 3 or more days away the task will appear Green.",
         "skills": ["HTML, Javascript, CSS"],
         "demo": "https://ther16h.github.io/Brain-Dump/",
-        "source": "add the repo here or add a href to the repo and add the deployed link here"
+        "source": "https://github.com/TheR16H/Brain-Dump"
 
     },
     {
@@ -14,14 +14,14 @@
         "description": "This is a Weather site that will bring up an accurate 5 day forecast using data captured with an API, while keeping your previous searches stored to the side under the search bar for easy researchability.",
         "skills": ["HTML, Javascript, CSS"],
         "demo": "https://ther16h.github.io/OfficialOfficialWeather/",
-        "source": "add the repo here or add a href to the repo and add the deployed link here"
+        "source": "https://github.com/TheR16H/OfficialofficialWeather"
 
     },
     {
         "title": "Employee Directory",
         "imageSrc": "projects/showcase3gif.gif",
-        "description": "This is an Employee Directory. with this application you will be able to see your employees / create new ones, see who is in what department and, what role they play in the grand scheme.",
-        "skills": ["Javascript, Postgress, SQL "],
+        "description": "This application will allow you to see your employees / create new ones, see who is in what department and, what role they play in the grand scheme.",
+        "skills": ["Javascript, Postgress, SQL, Node.js "],
         "demo": "https://drive.google.com/file/d/1pIN3k0Ue1KC7v9uhDAwys8RevJk9kVyF/view",
         "source": "https://github.com/TheR16H/Employee-Directory"
 
@@ -30,7 +30,7 @@
         "title": "E-commerce Back End",
         "imageSrc": "projects/showcase4.png",
         "description": "this is an application that is meant for keeping track of your business' products. with this application you can seperate your items by tags / categories. add a price to your items and even delist (delete) them .",
-        "skills": ["Javascript, Node.js, SQL"],
+        "skills": ["Javascript, Node.js, SQL, Node.js"],
         "demo": "https://drive.google.com/file/d/12XZU5xr_N-eA2ggnwyKjSqDsjSLuEwTv/view",
         "source": "https://github.com/TheR16H/BuySellBuySell"
 
@@ -39,7 +39,7 @@
         "title": "Stenographer",
         "imageSrc": "projects/showcase6gif.gif",
         "description": "The purpose of Stenographer is to give you the ability to POST and GET things you wish to remember and then you have the ability to delete them when you're done!",
-        "skills": ["Javascript, CSS, Node.js"],
+        "skills": ["HTML, Javascript, CSS, Node.js"],
         "demo": "https://stenographer-lcxt.onrender.com",
         "source": "https://github.com/TheR16H/Stenographer"
 
@@ -47,8 +47,8 @@
     {
         "title": "Green Acres (Project 2)",
         "imageSrc": "projects/showcase5.png",
-        "description": "The Intended use of this application is for a busniess to track jobs / add clients on the go in a conveient way to advance your business ventures.",
-        "skills": ["Javascript, CSS, Node.js, SQL"],
+        "description": "This was a collab. The Intended use of this application is for a busniess to track jobs / add clients on the go in a conveient way to advance your business ventures.",
+        "skills": ["Javascript, CSS, Node.js, SQL, Handlebars"],
         "demo": "https://project2-hivl.onrender.com/",
         "source": "https://github.com/TheR16H/Green-Acres"
 
