@@ -35,10 +35,13 @@ npm run start
 Find me on [Github!](https://github.com/TheR16H) for any support or to see any of my other works.
 
 ## Acknowledgements
-Special thanks too everyone who along the way it would not have been possible without them. <u><b>I can't name everyone</b></u> but here's a select few!
-- [Mr. Jung](https://github.com/juhuyoon) - for being a <b>phenomenal</b> instructor and motivator. 
-- [Samuel](https://github.com/swlodawski) - helped with staying focused and is a good friend. 
-- [Micah](https://github.com/Kalink52) - Always open for helping figuring out problems and debugging regaining focus. 
+Special thanks too everyone who along the way it would not have been possible without them. <u><b>I can't name everyone</b></u> but here's a select few! make sure to visit their respective repos as well! 
+- [Mr. Jung](https://github.com/juhuyoon) - A <b>phenomenal</b> instructor and motivator. Taught me a lot, and without him, it would not have been possible.
+
+- [Samuel](https://github.com/swlodawski) - aided in maintaining concentration, a positive attitude and is a wonderful friend. 
+
+- [Micah](https://github.com/Kalink52) - Always willing to assist with problem solving, troubleshooting, and regaining focus.
+
 
 ## References
 - [Source](https://github.com/TheR16H) 
