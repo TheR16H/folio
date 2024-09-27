@@ -58,3 +58,20 @@
     padding: 1px 22px;
   }
  
+  .collaborators {
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: 300;
+    color: #ffffff; /* Change color as needed */
+}
+
+.collaboratorLink {
+  color: #51ff2e; 
+  text-decoration: underline; 
+  transition: text-shadow 0.3s ease; 
+}
+
+.collaboratorLink:hover {
+  text-decoration: none; 
+  text-shadow: 0 0 5px #00f, 0 0 10px #00f, 0 0 15px #00f; /* Glow effect */
+}

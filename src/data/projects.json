@@ -47,10 +47,20 @@
     {
         "title": "Green Acres (Project 2)",
         "imageSrc": "projects/showcase5.png",
-        "description": "This was a collab. The Intended use of this application is for a busniess to track jobs / add clients on the go in a conveient way to advance your business ventures.",
+        "description": " The Intended use of this application is for a busniess to track jobs / add clients on the go in a conveient way to advance your business ventures.",
         "skills": ["Javascript, CSS, Node.js, SQL, Handlebars"],
         "demo": "https://project2-hivl.onrender.com/",
-        "source": "https://github.com/TheR16H/Green-Acres"
+        "source": "https://github.com/TheR16H/Green-Acres",
+       "collaborators": [
+            { "name": "Micah Cox", "url": "https://github.com/Kalink52" },
+            { "name": "Thomas Smith", "url": "https://github.com/thomassmith0526" },
+            { "name": "Kenneth Hasson", "url": "https://github.com/kenneth-hass" },
+            { "name": "Ernesto Gonzalez", "url": "https://github.com/ErnestoAG" },
+            { "name": "Daved Strzykalski", "url": "https://github.com/dstrzykalski" }
+
+
+        ]
+
 
     }
 ]
