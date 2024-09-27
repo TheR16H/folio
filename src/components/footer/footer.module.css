@@ -2,8 +2,8 @@ footer {
     background-color: blueviolet; /* Example background color */
     text-align: center;
     height: 5%;
-    position: relative;
-    bottom: 0;
+     /* position: relative; this was preventing it from sticking */
+    /* bottom: 0; this was preventing it from sticking */
     width: 100%;
     padding: 10px;
 
