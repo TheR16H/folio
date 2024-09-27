@@ -30,10 +30,10 @@ npm run build
 Find me on [Github!](https://github.com/TheR16H) for any support or to see any of my other works.
 
 ## Acknowledgements
-Special thanks too everyone who along the way it would not have been possible without them. <b>I can't name everyone</b> but here's a select few!
-- [Mr. Jung](https://github.com/juhuyoon) for being a <b>phenomenal</b> instructor and motivator. 
-- [Samuel](https://github.com/swlodawski) helped with staying focused and is a good ally. 
-- [Micah](https://github.com/Kalink52) Always open for helping figuring out problems and debugging. 
+Special thanks too everyone who along the way it would not have been possible without them. <u><b>I can't name everyone</b></u> but here's a select few!
+- [Mr. Jung](https://github.com/juhuyoon) - for being a <b>phenomenal</b> instructor and motivator. 
+- [Samuel](https://github.com/swlodawski) - helped with staying focused and is a good friend. 
+- [Micah](https://github.com/Kalink52) - Always open for helping figuring out problems and debugging regaining focus. 
 
 ## References
 - [Source](https://github.com/TheR16H) 
