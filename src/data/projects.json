@@ -30,7 +30,7 @@
         "title": "E-commerce Back End",
         "imageSrc": "projects/showcase4.png",
         "description": "this is an application that is meant for keeping track of your business' products. with this application you can seperate your items by tags / categories. add a price to your items and even delist (delete) them .",
-        "skills": ["Javascript, Node.js, SQL, Node.js"],
+        "skills": ["Javascript, SQL, Node.js"],
         "demo": "https://drive.google.com/file/d/12XZU5xr_N-eA2ggnwyKjSqDsjSLuEwTv/view",
         "source": "https://github.com/TheR16H/BuySellBuySell"
 
