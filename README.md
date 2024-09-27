@@ -9,7 +9,7 @@ This [Portfolio](https://main--boysfirstfolio.netlify.app/) is a place that hold
 - [Usage](#usage)
 - [Installation](#installation)
 - [Support](#support)
-- [Contributions](#contributions)
+- [Acknowledgements](#acknowledgements)
 - [References](#references)
 - [License](#license)
 
@@ -29,8 +29,11 @@ npm run build
 ## Support
 Find me on [Github!](https://github.com/TheR16H) for any support or to see any of my other works.
 
-## Contributions
-no contributions will be needed for this project.
+## Acknowledgements
+Special thanks too everyone who along the way it would not have been possible without them. including <b>(but not limited too)</b>
+- [Mr. Jung](https://github.com/juhuyoon) for being a <b>phenomenal</b> instructor and motivator. 
+- [Samuel](https://github.com/swlodawski) helped with staying focused and is a good ally. 
+- [Micah](https://github.com/Kalink52) Always open for helping figuring out problems and debugging. 
 
 ## References
 - [Source](https://github.com/TheR16H) 
