@@ -38,7 +38,7 @@ Find me on [Github!](https://github.com/TheR16H) for any support or to see any o
 Special thanks to everyone who helped along the way it would not have been possible without them (even if they don't know it yet). <u><b>I can't name everyone</b></u> but here's a select few! make sure to visit their respective repos as well! 
 - [Mr. Jung](https://github.com/juhuyoon) - A <b>phenomenal</b> instructor and motivator. he helped me learn a lot, and without him, it would not have been possible.
 - [Samuel](https://github.com/swlodawski) - aided in maintaining concentration and a positive attitude. a wonderful friend throughout the journey. 
-- [Micah](https://github.com/Kalink52) - Always willing to assist with problem solving / troubleshooting, the laughter and good times also helped me with regaining focus sometimes. i hope there's more of those moments!
+- [Micah](https://github.com/Kalink52) - Always willing to assist with problem solving / troubleshooting and is a very diligent worker. the laughter and good times also helped me with regaining focus sometimes. i hope there's more of those moments!
 
 
 ## References
