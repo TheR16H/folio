@@ -26,7 +26,7 @@ If you want to view this project locally just run the following commands in your
 ```
 npm run build
 ```
-- Secondly: to actually start the server just execute the following command 
+- Secondly: to actually start the server just execute the following command
 ```
 npm run start
 ```
