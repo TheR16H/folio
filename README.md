@@ -45,8 +45,9 @@ Special thanks too everyone who along the way it would not have been possible wi
 - [Source](https://github.com/TheR16H) 
 - [Keyframes](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Keyframe_Formats)
 - [React Docs](https://react.dev/)
-- [Netlify Deployment Docs](https://docs.netlify.com/site-deploys/overview/)
 - [Custom Cursor Methods](https://www.freecodecamp.org/news/how-to-make-a-custom-mouse-cursor-with-css-and-javascript/)
+- [Netlify Deployment Docs](https://docs.netlify.com/site-deploys/overview/)
+
 
 ## License
 MIT License 🔔
