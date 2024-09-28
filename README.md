@@ -14,8 +14,8 @@ This [Portfolio](https://main--boysfirstfolio.netlify.app/) is a place that hold
 - [License](#license)
 
 ## Visuals
- ![Screenshot](./assets/misc-images/Visual1.png)
 ![Screenshot](./assets/misc-images/Visual2.png)
+![Screenshot](./assets/misc-images/Visual1.png)
 
 ## Usage
 The proper usage is to showcase things i've worked on and give future employers a way to contact me !
