@@ -2,44 +2,30 @@
     {
         "title": "Git",
         "imageSrc": "skills/git.png"
-       
-
     }, 
      {
         "title": "CSS",
         "imageSrc": "skills/css.png"
-       
-
     },
     {
         "title": "HTML",
         "imageSrc": "skills/html.png"
-       
-
-    }, 
+   }, 
    {
         "title": "SQL",
         "imageSrc": "skills/sql.png"
-       
-
-    },
+     },
     {
         "title": "React",
         "imageSrc": "skills/react.png"
-       
-
     }, 
     {
         "title": "Jquery",
         "imageSrc": "skills/jquery.png"
-       
-
     }, 
     {
         "title": "Node.js",
         "imageSrc": "skills/node.png"
-       
-
     },
     {
         "title": "Postgres",
