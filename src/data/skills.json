@@ -42,17 +42,15 @@
 
     },
     {
-        "title": "Mongodb",
-        "imageSrc": "skills/mongodb.png"
+        "title": "Postgres",
+        "imageSrc": "skills/Postgresql.png"
     },
     {
         "title": "Javascript",
         "imageSrc": "skills/notcoffee.png"
-       
-
     },
     {
-        "title": "PostgresSQL",
-        "imageSrc": "skills/Postgresql.png"
-        }
+        "title": "Mongodb",
+        "imageSrc": "skills/mongodb.png"
+    }
 ]
