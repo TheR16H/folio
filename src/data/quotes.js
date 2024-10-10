@@ -1,9 +1,9 @@
 const quotes = [
-  "The best way to predict the future is to create it.",
-  "Success is not the key to happiness. Happiness is the key to success.",
-  "Believe you can and you're halfway there.",
-  "Act as if what you do makes a difference. It does.",
-  "What lies behind us and what lies before us are tiny matters compared to what lies within us."
+  "This is just the beginning.",
+  "A moment of quiet is good for your mental well-being. - Uncle Iroh",
+  "I wanna create fascinating things that make people say ''This is so cool!'' - Rashawn",
+  "One of my most productive days was throwing away 1000 lines of code. - Ken Thompson",
+  "K.I.S.S - Keep it simple, stupid."
 ];
 
 export default quotes;
