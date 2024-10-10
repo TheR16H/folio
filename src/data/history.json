@@ -3,14 +3,14 @@
     "role": "Graphic Designer",
     "startDate": "August 2014",
     "endDate": "October 2020",
-    "experiences": ["Worked on 3D modeling / images / rendering"]
+    "experiences": ["Worked on 3D modeling", "images",  "rendering"]
   },
 
   {
     "role": "Script / Code writer",
     "startDate": "January 2016",
     "endDate": "October 2020",
-    "experiences": [" Worked on Luau programming language for scripting"]
+    "experiences": [" Worked with Luau programming language for scripting"]
   },
 
     {

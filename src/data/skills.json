@@ -32,15 +32,16 @@
         "imageSrc": "skills/node.png"
     },
     {
-        "title": "Postgres",
-        "imageSrc": "skills/Postgresql.png"
-    },
-    {
         "title": "Javascript",
         "imageSrc": "skills/notcoffee.png"
     },
     {
         "title": "Mongodb",
         "imageSrc": "skills/mongodb.png"
+    },
+    {
+        "title": "PostgreSQL",
+        "imageSrc": "skills/Postgresql.png"
     }
+
 ]
