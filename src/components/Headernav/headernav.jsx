@@ -36,6 +36,9 @@ export const Headernav = () => {
           <li>
           <a href="https://linktr.ee/ther16links">Links</a>
           </li>
+          {/* <li>
+          <a href="link">Resume</a>
+          </li> */}
         </ul>
       </div>
     </nav>
