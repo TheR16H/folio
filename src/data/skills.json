@@ -24,6 +24,10 @@
         "imageSrc": "skills/jquery.png"
     }, 
     {
+        "title": "Express",
+        "imageSrc": "skills/expressive.png"
+    },
+    {
         "title": "Node.js",
         "imageSrc": "skills/node.png"
     },
