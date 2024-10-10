@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import styles from './cursor.module.css'; // Import your CSS module
+import styles from './cursor.module.css'; 
 
 const CustomCursor = () => {
     const [cursorPosition, setCursorPosition] = useState({ x: 0, y: 0 });
@@ -18,7 +18,7 @@ const CustomCursor = () => {
 
     return (
         <div
-            className={styles.customCursor} // Use the imported styles
+            className={styles.customCursor} 
             style={{
                 left: `${cursorPosition.x}px`,
                 top: `${cursorPosition.y}px`,
