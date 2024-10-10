@@ -12,7 +12,7 @@
         "title": "Weather App",
         "imageSrc": "projects/showcase2gif.gif",
         "description": "This is a Weather site that will bring up an accurate 5 day forecast using data captured with an API, while keeping your previous searches stored to the side under the search bar for easy researchability.",
-        "skills": ["HTML, Javascript, CSS"],
+        "skills": ["HTML, Javascript, CSS, Bootstrap"],
         "demo": "https://ther16h.github.io/OfficialOfficialWeather/",
         "source": "https://github.com/TheR16H/OfficialofficialWeather"
 
