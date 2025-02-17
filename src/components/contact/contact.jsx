@@ -18,7 +18,7 @@ export const Contact = () => {
             src={getImageUrl("contact/linkedinIcon.png")}
             alt="LinkedIn icon"
           /> 
-          {/* { I think my linkedin is private dont forget to change edit that soon } */}
+          {/* { I think my linkedin is private dont forget to edit that soon } */}
           <a href="https://www.linkedin.com/in/ther16h/">linkedin.com/in/ther16h/</a>
         </li>
         <li className={styles.link}>
