@@ -19,7 +19,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Introduction</h3>
               <p>
-             My name is Rashawn Hall born and raised in PA. i have a background in coding and graphic design.
+             My name is Rashawn, born and raised in PA. i have a background in coding and graphic design.
               </p>
             </div>
           </li>
@@ -40,7 +40,7 @@ export const About = () => {
               <h3>History</h3>
               <p>
               Since starting on my full stack journey i picked up a variety of skills, in my freetime i tend to dive into various topics of research always advancing my extensive knowlege on all things 
-              full stack and have a few passion projects planned to be released soon!
+              full stack. 
               </p>
             </div>
           </li>

@@ -39,6 +39,19 @@
 }
 
 
+.quote {
+  font-size: 25px;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding-left: 100px;
+  margin-bottom: 52px;
+  animation: bounce 2s infinite;
+  border: 1px solid #000; /* Border color and style */
+  padding: 10px;          /* Space between the text and the border */
+  background: linear-gradient(180deg, #ff0000 0%, #565ea8 100%);
+}
+
+
 .topBlur {
   position: absolute;
   width: 50vw;

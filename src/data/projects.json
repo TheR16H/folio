@@ -12,7 +12,7 @@
         "title": "Weather App",
         "imageSrc": "projects/showcase2gif.gif",
         "description": "This is a Weather site that will bring up an accurate 5 day forecast using data captured with an API, while keeping your previous searches stored to the side under the search bar for easy researchability.",
-        "skills": ["HTML, Javascript, CSS"],
+        "skills": ["HTML, Javascript, CSS, Bootstrap, Modular Programming"],
         "demo": "https://ther16h.github.io/OfficialOfficialWeather/",
         "source": "https://github.com/TheR16H/OfficialofficialWeather"
 
@@ -21,7 +21,7 @@
         "title": "Employee Directory",
         "imageSrc": "projects/showcase3gif.gif",
         "description": "This application will allow you to see your employees / create new ones, see who is in what department and, what role they play in the grand scheme.",
-        "skills": ["Javascript, Postgress, SQL, Node.js "],
+        "skills": ["Javascript, Postgres, SQL, Node.js "],
         "demo": "https://drive.google.com/file/d/1pIN3k0Ue1KC7v9uhDAwys8RevJk9kVyF/view",
         "source": "https://github.com/TheR16H/Employee-Directory"
 
@@ -47,8 +47,8 @@
     {
         "title": "Green Acres (Project 2)",
         "imageSrc": "projects/showcase5.png",
-        "description": " The Intended use of this application is for a busniess to track jobs / add clients on the go in a conveient way to advance your business ventures.",
-        "skills": ["Javascript, CSS, Node.js, SQL, Handlebars"],
+        "description": " The Intended use of this application is for a busniess to track jobs / add clients on the go in a convenient  way to advance your business ventures.",
+        "skills": ["Javascript, CSS, Node.js, SQL, Handlebars, Express"],
         "demo": "https://project2-hivl.onrender.com/",
         "source": "https://github.com/TheR16H/Green-Acres",
        "collaborators": [

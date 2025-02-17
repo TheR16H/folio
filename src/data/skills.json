@@ -2,57 +2,46 @@
     {
         "title": "Git",
         "imageSrc": "skills/git.png"
-       
-
     }, 
      {
         "title": "CSS",
         "imageSrc": "skills/css.png"
-       
-
     },
     {
         "title": "HTML",
         "imageSrc": "skills/html.png"
-       
-
-    }, 
+   }, 
    {
         "title": "SQL",
         "imageSrc": "skills/sql.png"
-       
-
-    },
+     },
     {
         "title": "React",
         "imageSrc": "skills/react.png"
-       
-
     }, 
     {
         "title": "Jquery",
         "imageSrc": "skills/jquery.png"
-       
-
     }, 
+    {
+        "title": "Express",
+        "imageSrc": "skills/expressive.png"
+    },
     {
         "title": "Node.js",
         "imageSrc": "skills/node.png"
-       
-
-    }, 
+    },
     {
-    "title": "Postgress",
-    "imageSrc": "skills/Postgresql.png"
+        "title": "Javascript",
+        "imageSrc": "skills/notcoffee.png"
     },
     {
         "title": "Mongodb",
         "imageSrc": "skills/mongodb.png"
     },
     {
-        "title": "Javascript",
-        "imageSrc": "skills/notcoffee.png"
-       
-
+        "title": "PostgreSQL",
+        "imageSrc": "skills/Postgresql.png"
     }
+
 ]
