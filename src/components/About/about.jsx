@@ -28,9 +28,8 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Fullstack Developer</h3>
               <p>
-              I'm an aspiring fullstack developer with experience in building responsive
-                and optimized sites, as well as developing fast and optimised back-end systems
-                and utlizing APIs. 
+              I am an aspiring full-stack developer with experience in creating responsive and optimized websites,
+               as well as developing efficient back-end systems and utilizing APIs. 
               </p>
             </div>
           </li>
@@ -39,8 +38,9 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>History</h3>
               <p>
-              Since starting on my full stack journey i picked up a variety of skills, in my freetime i tend to dive into various topics of research always advancing my extensive knowlege on all things 
-              full stack. 
+              Since beginning my journey as a full-stack developer, I have acquired a diverse set of skills. In my free time, 
+              I enjoy exploring various research topics, 
+              continuously enhancing my extensive knowledge of all aspects of full-stack development. 
               </p>
             </div>
           </li>
