@@ -34,7 +34,7 @@ export const Headernav = () => {
             <Link to="/contact">Contact</Link> {/* Use Link instead of a */}
           </li>
           <li>
-          <a href="https://linktr.ee/ther16links">Links</a>
+          <a href="https://linktr.ee/ther16links">Linktr.ee</a>
           </li>
           {/* <li>
           <a href="link">Resume</a>
