@@ -6,7 +6,7 @@ const Footer = () => {
     return (
         <footer className={styles.footer}> {/* remember to Add a class for styling */}
            <div className={styles.footerContent}>
-                  <p>© 2024 TheR16H. All rights reserved.</p> 
+                  <p>Handcrafted by TheR16H © 2025 </p> 
                 <div className={styles.footerImages}>
                 <a href="rashawn5hall@gmail.com" target="_blank" rel="noopener noreferrer">
                         <img src={getImageUrl("contact/emailIcon.png")} alt="Email icon" />
