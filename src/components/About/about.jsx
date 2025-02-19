@@ -19,7 +19,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Introduction</h3>
               <p>
-             My name is Rashawn, born and raised in PA. i have a background in coding and graphic design.
+             My name is Rashawn, born and raised in PA. I have a background in coding and graphic design.
               </p>
             </div>
           </li>
